@@ -13,6 +13,9 @@
  ## Напишем программу для проверки 
  <img width="489" height="181" alt="image" src="https://github.com/user-attachments/assets/4ea81ac0-eedb-4ae8-9124-9ac7e03d40c3" />
 
+ ## Оттранслируем файлы
+ <img width="432" height="100" alt="image" src="https://github.com/user-attachments/assets/e3b89670-f703-4c9b-8584-de3f595e917c" />
+
 
 
 

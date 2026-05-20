@@ -25,7 +25,7 @@
 <img width="1111" height="750" alt="image" src="https://github.com/user-attachments/assets/5a18e925-72da-4148-ab62-99d39ebbe3dd" />
 
 ## Создаем Makefile
-<img width="464" height="445" alt="image" src="https://github.com/user-attachments/assets/f6840ec6-a1a1-45ba-afef-23bbadaab171" />
+<img width="675" height="535" alt="image" src="https://github.com/user-attachments/assets/ec9fb1e2-aa66-4ce4-8b91-3b151027266b" />
 
 ## Запуск Makefile
 <img width="428" height="110" alt="image" src="https://github.com/user-attachments/assets/b2d40efa-4386-4b84-b0ac-3fb0acc400ea" />
@@ -36,7 +36,7 @@
 <img width="523" height="656" alt="image" src="https://github.com/user-attachments/assets/1437ea98-f810-4566-9faf-bdd9e3adbf1c" />
 
 ## Обновим Makefile
-<img width="675" height="535" alt="image" src="https://github.com/user-attachments/assets/ec9fb1e2-aa66-4ce4-8b91-3b151027266b" />
+<img width="464" height="445" alt="image" src="https://github.com/user-attachments/assets/f6840ec6-a1a1-45ba-afef-23bbadaab171" />
 
 
 
